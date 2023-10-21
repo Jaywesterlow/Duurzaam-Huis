@@ -10,7 +10,8 @@
 ### Onze site
 
 [![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://jvvue.nl/ecosy/)
-[![Trelloboard](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://trello.com/b/5DuLc6Yn/ecosy)
+[![Trello](https://img.shields.io/badge/-trello-2e343f?logo=Trello&logoColor=white&style=for-the-badge)]([https://trello.com/b/ZbAc4eNT/team-ez-10](https://trello.com/b/5DuLc6Yn/ecosy))
+
 
 ---
 
