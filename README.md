@@ -10,6 +10,7 @@
 ### Onze site
 
 [![Website](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://jvvue.nl/ecosy/)
+[![Trelloboard](https://img.shields.io/badge/-Website-2e343f?logo=google&logoColor=white&style=for-the-badge)](https://trello.com/b/5DuLc6Yn/ecosy)
 
 ---
 
